@@ -1,0 +1,30 @@
+
+body{
+
+  margin-top:300px;
+  background:url("https://images.unsplash.com/photo-1562865554-85f927dd8238?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size: cover;
+}
+
+html
+{
+  height: 100%;
+}
+
+h1
+{
+  font-size:80px;
+  font-weight: 800px;
+}
+
+h3
+{
+  font-size: 30px;
+}
+
+hr
+{
+  width:50%;
+}
